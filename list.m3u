@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music;Undefined",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",---------- Cinema-FHD/HD ----------
+http://backonline.tech:80/restrimcanali/BsJoeCT9Yj/63257?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Undefined",51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+http://momotv.eu:2300/torino/torino/10716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+http://luminar.tv:2300/fabius/fabius/10716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+http://momotv.eu:2300/roma/roma/10716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+http://momotv.eu:2300/caserta/caserta/10716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+http://seeyoutv.net:2300/12/12/10716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Undefined",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="Undefined",Azzurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BABY TV
+http://luminar.tv:2300/violo/violo/10714?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BABY TV FULL HD
+http://luminar.tv:2300/violo/violo/10566?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BLAZE FULL HD
+http://luminar.tv:2300/violo/violo/10563?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BLAZE HD
+http://luminar.tv:2300/violo/violo/10562?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BLAZE SD
+http://luminar.tv:2300/violo/violo/10713?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://momotv.eu:2300/roma/roma/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://momotv.eu:2300/caserta/caserta/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://momotv.eu:2300/torino/torino/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://luminar.tv:2300/violo/violo/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://luminar.tv:2300/fabius/fabius/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING
+http://seeyoutv.net:2300/12/12/10712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://momotv.eu:2300/roma/roma/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://momotv.eu:2300/caserta/caserta/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://momotv.eu:2300/torino/torino/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://luminar.tv:2300/violo/violo/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://luminar.tv:2300/fabius/fabius/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOING PLUS
+http://seeyoutv.net:2300/12/12/10711?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOOMERANG FULL HD
+http://luminar.tv:2300/violo/violo/10561?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",BOOMERANG HD
+http://luminar.tv:2300/violo/violo/10560?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA E PESCA FULL HD
+http://momotv.eu:2300/roma/roma/10559?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA E PESCA FULL HD
+http://momotv.eu:2300/caserta/caserta/10559?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA E PESCA FULL HD
+http://luminar.tv:2300/violo/violo/10559?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA E PESCA FULL HD
+http://luminar.tv:2300/fabius/fabius/10559?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://luminar.tv:2300/violo/violo/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://momotv.eu:2300/torino/torino/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://luminar.tv:2300/fabius/fabius/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://seeyoutv.net:2300/12/12/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://momotv.eu:2300/roma/roma/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 FULL HD
+http://momotv.eu:2300/caserta/caserta/10709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://luminar.tv:2300/violo/violo/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://momotv.eu:2300/torino/torino/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://luminar.tv:2300/fabius/fabius/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://seeyoutv.net:2300/12/12/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://momotv.eu:2300/roma/roma/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 20 HD
+http://momotv.eu:2300/caserta/caserta/10708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://momotv.eu:2300/torino/torino/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://luminar.tv:2300/fabius/fabius/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://seeyoutv.net:2300/parigi/parigi/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://seeyoutv.net:2300/roma/roma/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://momotv.eu:2300/caserta/caserta/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://seeyoutv.net:2300/12/12/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://momotv.eu:2300/roma/roma/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://luminar.tv:2300/violo/violo/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 4K HEVC
+http://luminar.tv:2300/roma/roma/39509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://luminar.tv:2300/roma/roma/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://momotv.eu:2300/torino/torino/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://luminar.tv:2300/fabius/fabius/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://seeyoutv.net:2300/roma/roma/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://momotv.eu:2300/caserta/caserta/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://seeyoutv.net:2300/12/12/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://momotv.eu:2300/roma/roma/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 FULL HD
+http://luminar.tv:2300/violo/violo/10707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://luminar.tv:2300/violo/violo/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://luminar.tv:2300/roma/roma/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://momotv.eu:2300/torino/torino/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://luminar.tv:2300/fabius/fabius/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://seeyoutv.net:2300/parigi/parigi/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://seeyoutv.net:2300/roma/roma/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://momotv.eu:2300/caserta/caserta/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://seeyoutv.net:2300/12/12/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+http://momotv.eu:2300/roma/roma/10706?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://momotv.eu:2300/torino/torino/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://luminar.tv:2300/fabius/fabius/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://seeyoutv.net:2300/parigi/parigi/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://seeyoutv.net:2300/roma/roma/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://momotv.eu:2300/caserta/caserta/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://seeyoutv.net:2300/12/12/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://momotv.eu:2300/roma/roma/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://luminar.tv:2300/violo/violo/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HEVC
+http://luminar.tv:2300/roma/roma/39510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 SD
+http://luminar.tv:2300/violo/violo/10705?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://momotv.eu:2300/roma/roma/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://momotv.eu:2300/caserta/caserta/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://momotv.eu:2300/torino/torino/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://luminar.tv:2300/violo/violo/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://seeyoutv.net:2300/12/12/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CARTOONITO
+http://luminar.tv:2300/fabius/fabius/10704?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://luminar.tv:2300/violo/violo/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://momotv.eu:2300/torino/torino/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://luminar.tv:2300/fabius/fabius/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://seeyoutv.net:2300/12/12/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://momotv.eu:2300/roma/roma/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO
+http://momotv.eu:2300/caserta/caserta/10701?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://luminar.tv:2300/violo/violo/10538?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://momotv.eu:2300/torino/torino/10538?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://luminar.tv:2300/fabius/fabius/10538?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://seeyoutv.net:2300/12/12/10538?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://momotv.eu:2300/roma/roma/10538?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CIELO FULL HD
+http://momotv.eu:2300/caserta/caserta/10538?checkedby:hlscat.com
